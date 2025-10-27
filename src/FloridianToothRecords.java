@@ -16,7 +16,7 @@
    Inputs are validated (case-insensitive). Local variables are declared at
    method starts per CSC120 rules.
 
-   Author:  [Your Name]
+   Author:  Asher Berman
    Course:  CSC120
    Date:    27 October 2025
 */
